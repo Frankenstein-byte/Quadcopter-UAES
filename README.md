@@ -28,7 +28,7 @@ roslaunch gazebo_ros empty_world.launch (terminal 3)
 ```
 
 ## Output
-(./Pictures/1)
+(https://github.com/Frankenstein-byte/Quadcopter-UAES/blob/main/Pictures/1.png)
 ## Future work
 1. One of the major thing to do in our project will be to implement localisation and mapping for 3D navigation for proper object detection and movement in real time environments.  
 2. Fitting our drone with different sensors and digital imaging capabilities is not going to be easy and it would be another important task to do. 
